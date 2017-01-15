@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Sprites\scripts\bird.cs" />
+     <Compile Include="Assets\Sprites\scripts\column.cs" />
+     <Compile Include="Assets\Sprites\scripts\columnpool.cs" />
      <Compile Include="Assets\Sprites\scripts\gameControl.cs" />
      <Compile Include="Assets\Sprites\scripts\repeatingbachground.cs" />
      <Compile Include="Assets\Sprites\scripts\scrollingobjects.cs" />

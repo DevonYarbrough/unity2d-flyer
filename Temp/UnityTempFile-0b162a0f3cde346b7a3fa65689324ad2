@@ -76,7 +76,10 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 'Assets/Sprites/scripts/bird.cs'
+'Assets/Sprites/scripts/column.cs'
+'Assets/Sprites/scripts/columnpool.cs'
 'Assets/Sprites/scripts/gameControl.cs'
+'Assets/Sprites/scripts/repeatingbachground.cs'
 'Assets/Sprites/scripts/scrollingobjects.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'
